@@ -11,8 +11,8 @@ const DB_PASS = '123456';
 const DB_NAME = 'rag_db';
 
 const OLLAMA_URL = 'http://127.0.0.1:11434';
-const LLM_MODEL = 'qwen2.5:3b';
-const EMBED_MODEL = 'bge-m3';
+const LLM_MODEL = 'qwen2.5:3b'; #ชื่อโมเดลที่ติดตั้งไว้ในollama
+const EMBED_MODEL = 'bge-m3';   #ชื่อโมเดลที่ติดตั้งไว้ในollama
 const TOP_K = 7;
 
 // =========================
