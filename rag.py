@@ -13,8 +13,8 @@ MYSQL_USER = "rag_user"
 MYSQL_PASSWORD = "123456"
 MYSQL_DATABASE = "rag_db"
 
-LLM_MODEL = "qwen2.5:3b" #ชื่อโมเดลที่ติดตั้งไว้
-EMBED_MODEL = "bge-m3"   #ชื่อโมเดลที่ติดตั้งไว้
+LLM_MODEL = "qwen2.5:3b" #ชื่อโมเดลที่ติดตั้งไว้ในollama
+EMBED_MODEL = "bge-m3"   #ชื่อโมเดลที่ติดตั้งไว้ในollama
 
 DOCUMENT_FOLDER = "documents"
 TOP_K = 7 
