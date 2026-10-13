@@ -6,8 +6,8 @@ set_time_limit(300);
 // CONFIG
 // =========================
 const DB_HOST = 'localhost';
-const DB_USER = 'rag_user';
-const DB_PASS = '123456';
+const DB_USER = 'rag_user'; # Or 'root'
+const DB_PASS = '123456';    # Or ''
 const DB_NAME = 'rag_db';
 
 const OLLAMA_URL = 'http://127.0.0.1:11434';
