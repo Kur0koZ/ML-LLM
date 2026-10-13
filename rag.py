@@ -9,8 +9,8 @@ import ollama
 # CONFIG
 # =========================
 MYSQL_HOST = "localhost"
-MYSQL_USER = "rag_user"
-MYSQL_PASSWORD = "123456"
+MYSQL_USER = "rag_user"     # Or "root"
+MYSQL_PASSWORD = "123456"     # Or ""
 MYSQL_DATABASE = "rag_db"
 
 LLM_MODEL = "qwen2.5:3b" #ชื่อโมเดลที่ติดตั้งไว้ในollama
