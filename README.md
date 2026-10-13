@@ -3,4 +3,5 @@
 อย่าลืมนำ api.php กับ index.html ไปใส่ในโฟล์เดอร์ htdocs ของ Xampp เพื่อรันในเว็บ
 
 ---------CMD-----------
+
 pip install -r requirements.txt [ถ้าเอาrequirements.txtเข้ามาด้วย]
